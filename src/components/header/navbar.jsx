@@ -21,7 +21,7 @@ export const Header = () => {
         {/* Logo and App Name */}
         <Link className="navbar-brand d-flex align-items-center" to="/">
           <img
-            src="../src/assets/LOGO.jpg"
+            src="public\pexels-anntarazevich-7251841.jpg"
             alt="Indian Spice Chronicles Logo"
             className="me-2"
             style={{ height: "80px" }}
